@@ -1,0 +1,15 @@
+# Ignore data, vis, and models directories
+/data/affordance_v5/
+/src/vis/
+/models/
+/src/__pycache__
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# VSCode settings
+.vscode/
+# OS files
+.DS_Store
+Thumbs.db
